@@ -25,7 +25,7 @@ let buttonMessage= {
 'footer': wm,
 'buttons':[
 {buttonId: `${usedPrefix}menu`, buttonText: {displayText: '𝙼𝙴𝙽𝚄'}, type: 1}, 
-{buttonId: `${usedPrefix}donar`, buttonText: {displayText: '𝙳𝙾𝙽𝙰𝚁'}, type: 1}],
+
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 const data = global.owner.filter(([id, isCreator]) => id && isCreator)
