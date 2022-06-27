@@ -63,9 +63,9 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
     
 
 let str = `
-*ミ💖 𝙷𝙾𝙻𝙰 ✨${name}✨\n 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙳𝙴𝙻 𝙱𝙾𝚃 💖彡*
+*ミ💖 𝙷𝙾𝙻𝙰 _${name}_ 💖彡*
 
-*📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
+
 
 *<𝕁𝕌𝔼𝔾𝕆𝕊/>*
 
@@ -425,6 +425,8 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}addprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}listprem_
+
+*📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 `.trim()
 conn.sendHydrated2(m.chat, str, wm, pp, '', 'Romina 🥀 - Bot', '', '', [
 
