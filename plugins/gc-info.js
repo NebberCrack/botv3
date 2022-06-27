@@ -5,9 +5,7 @@ const groupAdmins = participants.filter(p => p.admin)
 const listAdmin = groupAdmins.map((v, i) => `${i + 1}. @${v.id.split('@')[0]}`).join('\n')
 const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net'
 let text = `*「 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 𝐃𝐄𝐋 𝐆𝐑𝐔𝐏𝐎 」*\n
-
-*𝙽𝙾𝙼𝙱𝚁𝙴:* 
-${groupMetadata.subject}
+*𝙽𝙾𝙼𝙱𝚁𝙴:* ${groupMetadata.subject}
 𝕰𝖑 𝖒𝖊𝖏𝖔𝖗 𝖌𝖗𝖚𝖕𝖔 𝖉𝖊 𝖆𝖒𝖎𝖘𝖙𝖆𝖉!
 
 ${groupMetadata.desc?.toString() || '𝚂𝙸𝙽 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽'}
