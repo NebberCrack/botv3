@@ -5,7 +5,7 @@ let text = `
 *—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙾𝚆𝙽𝙴𝚁 𝙴𝚂 wa.me/994400781527*
 `.trim()   
 let buttonMessage= {
-'document': { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
+'document': { url: `https://consultarec.com/` },
 'mimetype': `application/${document}`,
 'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
 'fileLength': 99999999999999,
@@ -20,7 +20,7 @@ let buttonMessage= {
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA' }},
+'sourceUrl': 'https://consultarec.com/' }},
 'caption': text,
 'footer': wm,
 'buttons':[
