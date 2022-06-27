@@ -66,8 +66,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.packname = '𓊈𒆜ᴺᵉᵇᵇᵉʳᶜʳᵃᶜᵏᵉʳ𒆜𓊉ᴮᴼˢˢ'
 global.author = '★Romina 🥀★'
-
-global.wm = '★Romina 🥀 - Bot★ wm'
+global.wm = ''
 global.igfg = '★Romina 🥀 - Bot★ igfg'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
