@@ -426,8 +426,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}listprem_
 `.trim()
-conn.sendHydrated2(m.chat, str, wm, pp, '𝙿𝙰𝚈𝙿𝙰𝙻', '', '𝙶𝙸𝚃𝙷𝚄𝙱', [
-
+conn.sendHydrated2(m.chat, str, wm, pp, '', '', '', [
 ['🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾', '/infobot']
 ], m,)
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
