@@ -65,7 +65,7 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
 let str = `
 *ミ💖 𝙷𝙾𝙻𝙰 _${name}_ 💖彡*
 
-
+〘 𝗠𝗘𝗡𝗨 𝗗𝗘𝗟 𝗕𝗢𝗧 〙
 
 *<𝕁𝕌𝔼𝔾𝕆𝕊/>*
 
