@@ -75,7 +75,6 @@ let str = `
 ° ඬ⃟🎖️ _${usedPrefix}ppt *<papel / tijera /piedra>*_
 ° ඬ⃟🎖️ _${usedPrefix}love *<nombre / @tag>*_
 ° ඬ⃟🎖️ _${usedPrefix}formarpareja_
-° ඬ⃟🎖️ _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
 ° ඬ⃟🎖️ _${usedPrefix}prostituto *<nombre / @tag>*_
 ° ඬ⃟🎖️ _${usedPrefix}prostituta *<nombre / @tag>*_
 ° ඬ⃟🎖️ _${usedPrefix}gay2 *<nombre / @tag>*_
@@ -87,12 +86,14 @@ let str = `
 ° ඬ⃟🎖️ _${usedPrefix}manco *<nombre / @tag>*_
 ° ඬ⃟🎖️ _${usedPrefix}manca *<nombre / @tag>*_
 ° ඬ⃟🎖️ _${usedPrefix}rata *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}doxear *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}pregunta *<texto>*_
-° ඬ⃟🎖️ _${usedPrefix}slot *<apuesta>*_
-° ඬ⃟🎖️ _${usedPrefix}simi *<texto>*_
 ° ඬ⃟🎖️ _${usedPrefix}topgays_
 ° ඬ⃟🎖️ _${usedPrefix}topotakus_
+° ඬ⃟🎖️ _${usedPrefix}pregunta *<texto>*_
+° ඬ⃟🎖️ _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
+° ඬ⃟🎖️ _${usedPrefix}slot *<apuesta>*_
+° ඬ⃟🎖️ _${usedPrefix}simi *<texto>*_
+° ඬ⃟🎖️ _${usedPrefix}doxear *<nombre / @tag>*_
+
 
 *<𝔸𝕌𝔻𝕀𝕆𝕊/>* 
 _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
@@ -147,73 +148,17 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟🔊 _Bienvenido_
 ° ඬ⃟🔊 _Contexto_
 
-*<𝔸ℂ𝕋𝕀𝕍𝔸ℝ 𝕆 𝔻𝔼𝕊𝔸ℂ𝕋𝕀𝕍𝔸ℝ/>*
-
-° ඬ⃟☑️ _${usedPrefix}enable *welcome*_
-° ඬ⃟☑️ _${usedPrefix}disable *welcome*_
-° ඬ⃟☑️ _${usedPrefix}enable *modohorny*_
-° ඬ⃟☑️ _${usedPrefix}disable *modohorny*_
-° ඬ⃟☑️ _${usedPrefix}enable *antilink*_
-° ඬ⃟☑️ _${usedPrefix}disable *antilink*_
-° ඬ⃟☑️ _${usedPrefix}enable *antilink2*_
-° ඬ⃟☑️ _${usedPrefix}disable *antilink2*_
-° ඬ⃟☑️ _${usedPrefix}enable *detect*_
-° ඬ⃟☑️ _${usedPrefix}disable *detect*_
-° ඬ⃟☑️ _${usedPrefix}enable *audios*_
-° ඬ⃟☑️ _${usedPrefix}disable *audios*_
-° ඬ⃟☑️ _${usedPrefix}enable *autosticker*_
-° ඬ⃟☑️ _${usedPrefix}disable *autosticker*_
-
-
-
 *<𝔻𝔼𝕊ℂ𝔸ℝ𝔾𝔸𝕊/>*
 
-° ඬ⃟📥 _${usedPrefix}facebook *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}mediafire *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}gitclone *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}gdrive *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}tiktok *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}xnxxdl *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}xvideosdl *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp3 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp4 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp3doc *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp4doc *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play.1 *<texto / enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play.2 *<texto / enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play *<texto>*_
-° ඬ⃟📥 _${usedPrefix}playdoc *<texto>*_
-° ඬ⃟📥 _${usedPrefix}playlist *<texto>*_
-° ඬ⃟📥 _${usedPrefix}playlist2 *<texto>*_
-° ඬ⃟📥 _${usedPrefix}spotify *<texto>*_
-° ඬ⃟📥 _${usedPrefix}imagen *<texto>*_
-° ඬ⃟📥 _${usedPrefix}pinteret *<texto>*_
-° ඬ⃟📥 _${usedPrefix}wallpaper *<texto>*_
-° ඬ⃟📥 _${usedPrefix}wallpaper2 *<texto>*_
-° ඬ⃟📥 _${usedPrefix}pptiktok *<nombre de usuario>*_
-° ඬ⃟📥 _${usedPrefix}igstalk *<nombre de usuario>*_
-° ඬ⃟📥 _${usedPrefix}igstory *<nombre de usuario>*_
-° ඬ⃟📥 _${usedPrefix}tiktokstalk *<nombre de usuario>*_
+° ඬ⃟📥 _${usedPrefix}play *<nombre del audio / video>*_
+° ඬ⃟📥 _${usedPrefix}playdoc *<nombre del audio / video>*_
+° ඬ⃟📥 _${usedPrefix}playlist *<nombre del audio / video>*_
+° ඬ⃟📥 _${usedPrefix}playlist2 *<nombre del audio / video>*_
+° ඬ⃟📥 _${usedPrefix}imagen *<nombre de imagen>*_
+° ඬ⃟📥 _${usedPrefix}pinteret *<nombre de imagen>*_
+° ඬ⃟📥 _${usedPrefix}wallpaper *<nombre de imagen>*_
+° ඬ⃟📥 _${usedPrefix}wallpaper2 *<nombre de imagen>*_
 
-*<𝔾ℝ𝕌ℙ𝕆𝕊/>* 
-
-° ඬ⃟💎 _${usedPrefix}add *<numero>*_
-° ඬ⃟💎 _${usedPrefix}kick *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}grupo *<abrir / cerrar>*_
-° ඬ⃟💎 _${usedPrefix}promote *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-° ඬ⃟💎 _admins *<texto>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
-° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}infogroup_
-° ඬ⃟💎 _${usedPrefix}link_
-° ඬ⃟💎 _${usedPrefix}setname *<texto>*_
-° ඬ⃟💎 _${usedPrefix}setdesc *<texto>*_
-° ඬ⃟💎 _${usedPrefix}invocar *<texto>*_
-° ඬ⃟💎 _${usedPrefix}setwelcome *<texto>*_
-° ඬ⃟💎 _${usedPrefix}setbye *<texto>*_
-° ඬ⃟💎 _${usedPrefix}hidetag *<texto>*_
 
 *<ℂ𝕆ℕ𝕍𝔼ℝ𝕋𝕀𝔻𝕆ℝ𝔼𝕊/>*
 
@@ -302,15 +247,10 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟🎤 _${usedPrefix}smooth_
 ° ඬ⃟🎤 _${usedPrefix}tupai_
 
-*<ℂℍ𝔸𝕋 𝔸ℕ𝕆ℕ𝕀𝕄𝕆/>*
-
-° ඬ⃟📳 _${usedPrefix}start_
-° ඬ⃟📳 _${usedPrefix}next_
-° ඬ⃟📳 _${usedPrefix}leave_
 
 *<𝔹𝕌𝕊ℂ𝔸𝔻𝕆ℝ𝔼𝕊/>*
 
-° ඬ⃟🔍 _${usedPrefix}xnxxsearch *<texto>*_
+
 ° ඬ⃟🔍 _${usedPrefix}animeinfo *<texto>*_
 ° ඬ⃟🔍 _${usedPrefix}google *<texto>*_
 ° ඬ⃟🔍 _${usedPrefix}letra *<texto>*_
@@ -325,7 +265,6 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟🔍 _${usedPrefix}revdl *<texto>*_
 ° ඬ⃟🔍 _${usedPrefix}toraccino *<texto>*_
 ° ඬ⃟🔍 _${usedPrefix}uapkpro *<texto>*_
-
 
 
 *<ℍ𝔼ℝℝ𝔸𝕄𝕀𝔼ℕ𝕋𝔸𝕊/>*
@@ -401,6 +340,41 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}addprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}listprem_
+
+*<𝔾ℝ𝕌ℙ𝕆𝕊/>* 
+
+° ඬ⃟💎 _${usedPrefix}add *<numero>*_
+° ඬ⃟💎 _${usedPrefix}kick *<@tag>*_
+° ඬ⃟💎 _${usedPrefix}grupo *<abrir / cerrar>*_
+° ඬ⃟💎 _${usedPrefix}promote *<@tag>*_
+° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
+° ඬ⃟💎 _admins *<texto>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
+° ඬ⃟💎 _${usedPrefix}infogroup_
+° ඬ⃟💎 _${usedPrefix}link_
+° ඬ⃟💎 _${usedPrefix}setname *<texto>*_
+° ඬ⃟💎 _${usedPrefix}setdesc *<texto>*_
+° ඬ⃟💎 _${usedPrefix}invocar *<texto>*_
+° ඬ⃟💎 _${usedPrefix}setwelcome *<texto>*_
+° ඬ⃟💎 _${usedPrefix}setbye *<texto>*_
+° ඬ⃟💎 _${usedPrefix}hidetag *<texto>*_
+
+*<𝔸ℂ𝕋𝕀𝕍𝔸ℝ 𝕆 𝔻𝔼𝕊𝔸ℂ𝕋𝕀𝕍𝔸ℝ/>*
+
+° ඬ⃟☑️ _${usedPrefix}enable *welcome*_
+° ඬ⃟☑️ _${usedPrefix}disable *welcome*_
+° ඬ⃟☑️ _${usedPrefix}enable *modohorny*_
+° ඬ⃟☑️ _${usedPrefix}disable *modohorny*_
+° ඬ⃟☑️ _${usedPrefix}enable *antilink*_
+° ඬ⃟☑️ _${usedPrefix}disable *antilink*_
+° ඬ⃟☑️ _${usedPrefix}enable *antilink2*_
+° ඬ⃟☑️ _${usedPrefix}disable *antilink2*_
+° ඬ⃟☑️ _${usedPrefix}enable *detect*_
+° ඬ⃟☑️ _${usedPrefix}disable *detect*_
+° ඬ⃟☑️ _${usedPrefix}enable *audios*_
+° ඬ⃟☑️ _${usedPrefix}disable *audios*_
+° ඬ⃟☑️ _${usedPrefix}enable *autosticker*_
+° ඬ⃟☑️ _${usedPrefix}disable *autosticker*_
 
 *📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 `.trim()
