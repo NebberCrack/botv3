@@ -65,9 +65,9 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '𓊈𒆜ᴺᵉᵇᵇᵉʳᶜʳᵃᶜᵏᵉʳ𒆜𓊉ᴮᴼˢˢ'
-global.author = '★Romina 🥀★'
+global.author = 'Romina 🥀 - Bot'
 global.wm = ''
-global.igfg = '★Romina 🥀 - Bot★ igfg'
+global.igfg = '★Romina 🥀 - Bot★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
