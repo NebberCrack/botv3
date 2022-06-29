@@ -9,6 +9,6 @@ type: 'audioMessage',
 ptt: true
 })
 }
-handler.customPrefix = /miarda de bot|mierda de bot|puto bot|bot puto|Mierda de Bot|Bot puto /
+handler.customPrefix = /Bot puto|bot puto|cállate puta|callate puta|Puto bot|puto bot /
 handler.command = new RegExp
 export default handler
