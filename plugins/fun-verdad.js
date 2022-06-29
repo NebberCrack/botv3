@@ -164,7 +164,7 @@ global.verdad = [
 "¿De quien estas enamorado(a) ?", 
 "Que estrella te gusta", 
 "¿Empezaste algo con XY (insertar nombre)?", 
-"Alguna vez has robado algo?"
+"Alguna vez has robado algo?",
 "¿Te gusta alguien del grupo? ¿Quién?",
   "¿Cual es tu mas grande miedo?",
   "¿Alguna vez te ha gustado un maestro / a de tu clase?",
@@ -458,4 +458,5 @@ global.verdad = [
 "¿Cuál sería tu super poder?",
 "Un lugar favorito en el mundo",
 "¿Con qué personaje literario o del cine te identificas?"
+
 ] 
