@@ -645,7 +645,7 @@ export async function participantsUpdate({ id, participants, action }) {
                             (chat.sBye || this.bye || conn.bye || 'Bye, @user!')).replace('@user', await this.getName(user))
                             let apii = await this.getFile(pp)
                             this.sendHydrated(id, text, groupMetadata.subject, apii.data, '', '', null, null, [
-                            [(action == 'add' ? '𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾' : ''), 'ura'],    
+                            [(action == 'add' ? '' : ''), 'ura'],    
                             ['', '']
                             ], '', { mentions: [user]})
                            }
